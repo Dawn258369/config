@@ -1,3 +1,5 @@
 mylog:
     enabled: true
     version: V3.3.0
+config:
+  info: "master brench version 10086 我第三次修改了自己 "
